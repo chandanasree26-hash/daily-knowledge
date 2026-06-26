@@ -1,6 +1,6 @@
 # Daily Knowledge — Learn Something New Every Day
 
-A Python desktop app that pops up every time you log into your laptop
+A Python and Tkinter desktop app that pops up every time you log into your laptop
 and shows you one topic to learn about — then opens the article in Chrome.
 
 No internet required to show the popup. Chrome opens the Wikipedia/article link.
