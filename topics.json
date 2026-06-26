@@ -43,6 +43,102 @@
       "url": "https://en.wikipedia.org/wiki/Geopolitics"
     },
     {
+      "title": "The United States Electoral College",
+      "category": "Politics",
+      "description": "Americans don't directly elect their president. Learn how the Electoral College works, why it was created, and why it's controversial.",
+      "url": "https://en.wikipedia.org/wiki/United_States_Electoral_College"
+    },
+    {
+      "title": "What Is Federalism?",
+      "category": "Politics",
+      "description": "Power shared between a central government and states. India, USA, Germany all use it differently. Why it works — and when it fails.",
+      "url": "https://en.wikipedia.org/wiki/Federalism"
+    },
+    {
+      "title": "What Is Democracy?",
+      "category": "Politics",
+      "description": "Ancient Athens invented it, Rome modified it, and modern nations have 100 different versions. What does democracy really mean?",
+      "url": "https://en.wikipedia.org/wiki/Democracy"
+    },
+    {
+      "title": "What Is a Constitution?",
+      "category": "Politics",
+      "description": "A country's highest law. Some are long (India: 145,000 words), some short (USA: 7,591 words). What makes a good constitution?",
+      "url": "https://en.wikipedia.org/wiki/Constitution"
+    },
+    {
+      "title": "What Is Nuclear Deterrence?",
+      "category": "Politics",
+      "description": "If both sides have nukes, neither will use them — or so the theory goes. How MAD (Mutually Assured Destruction) shapes world peace.",
+      "url": "https://en.wikipedia.org/wiki/Nuclear_deterrence"
+    },
+    {
+      "title": "The Role of the Supreme Court",
+      "category": "Politics",
+      "description": "Why do unelected judges have so much power? How constitutional courts balance democracy with protection of individual rights.",
+      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_India"
+    },
+    {
+      "title": "The United Nations — How It Works",
+      "category": "Politics",
+      "description": "Founded after WWII to prevent another global war, the UN has 193 member states. But can it actually enforce anything?",
+      "url": "https://en.wikipedia.org/wiki/United_Nations"
+    },
+    {
+      "title": "The Rise of Populism Worldwide",
+      "category": "Current Politics",
+      "description": "From Trump to Modi to Bolsonaro — populist leaders are reshaping democracies. What is populism, why is it rising, and what does it mean for institutions?",
+      "url": "https://en.wikipedia.org/wiki/Populism"
+    },
+    {
+      "title": "The Russia-Ukraine War — What You Need to Know",
+      "category": "Current Politics",
+      "description": "Why Russia invaded Ukraine in 2022, how NATO responded, and how this conflict is redrawing the map of European security.",
+      "url": "https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine"
+    },
+    {
+      "title": "US-China Relations — The New Cold War?",
+      "category": "Current Politics",
+      "description": "Trade wars, Taiwan tensions, tech competition — the rivalry between the world's two superpowers is shaping the 21st century.",
+      "url": "https://en.wikipedia.org/wiki/China%E2%80%93United_States_relations"
+    },
+    {
+      "title": "The Israel-Palestine Conflict Explained",
+      "category": "Current Politics",
+      "description": "A century-old dispute over land, identity, and statehood. The history, the key events, and why a solution remains so elusive.",
+      "url": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict"
+    },
+    {
+      "title": "Climate Diplomacy — COP and the Paris Agreement",
+      "category": "Current Politics",
+      "description": "Nations negotiate climate targets every year, but who actually follows through? How global climate politics works — and where it fails.",
+      "url": "https://en.wikipedia.org/wiki/Paris_Agreement"
+    },
+    {
+      "title": "The Global Rise of Disinformation",
+      "category": "Current Politics",
+      "description": "Fake news, deepfakes, and propaganda at scale. How misinformation spreads online and what governments are doing — or failing — to stop it.",
+      "url": "https://en.wikipedia.org/wiki/Misinformation"
+    },
+    {
+      "title": "India's Role in Global Politics Today",
+      "category": "Current Politics",
+      "description": "The world's most populous nation is now a swing power. How India navigates between the US, Russia, and China on the global stage.",
+      "url": "https://en.wikipedia.org/wiki/Foreign_relations_of_India"
+    },
+    {
+      "title": "Digital Authoritarianism — How Tech Enables Control",
+      "category": "Current Politics",
+      "description": "China's social credit system, mass surveillance, and internet censorship. How authoritarian governments are using technology to tighten control.",
+      "url": "https://en.wikipedia.org/wiki/Digital_authoritarianism"
+    },
+    {
+      "title": "The Global Refugee Crisis",
+      "category": "Current Politics",
+      "description": "Over 100 million displaced people worldwide. What's driving mass migration, how countries are responding, and the politics of asylum.",
+      "url": "https://en.wikipedia.org/wiki/Refugee_crisis"
+    },
+    {
       "title": "How the IMF Works",
       "category": "Economics",
       "description": "The International Monetary Fund lends money to struggling countries. But there are strings attached. Learn how it shapes global economies.",
@@ -55,40 +151,28 @@
       "url": "https://en.wikipedia.org/wiki/Inflation"
     },
     {
-      "title": "The Silk Road — Ancient Trade Routes",
-      "category": "History",
-      "description": "For centuries, merchants traveled thousands of miles connecting China to Rome. This road spread goods, religions, and diseases across continents.",
-      "url": "https://en.wikipedia.org/wiki/Silk_Road"
+      "title": "How the Stock Market Works",
+      "category": "Economics",
+      "description": "Companies sell pieces of themselves to raise money. Investors bet on their future. Learn what moves prices and why markets crash.",
+      "url": "https://en.wikipedia.org/wiki/Stock_market"
     },
     {
-      "title": "The Cold War Explained",
-      "category": "History",
-      "description": "Decades of tension between the US and USSR without direct fighting. Learn about the arms race, proxy wars, and the Space Race.",
-      "url": "https://en.wikipedia.org/wiki/Cold_War"
+      "title": "What Is a Central Bank?",
+      "category": "Economics",
+      "description": "The Reserve Bank of India, the US Federal Reserve — these institutions control money supply and interest rates for entire economies.",
+      "url": "https://en.wikipedia.org/wiki/Central_bank"
     },
     {
-      "title": "The French Revolution",
-      "category": "History",
-      "description": "How an economic crisis and inequality led to the overthrow of a monarchy and reshaped the concept of human rights forever.",
-      "url": "https://en.wikipedia.org/wiki/French_Revolution"
+      "title": "Japan's Economic Miracle",
+      "category": "Economics",
+      "description": "Devastated in 1945, Japan became the world's second-largest economy by 1968. How did they do it — and why did it eventually stall?",
+      "url": "https://en.wikipedia.org/wiki/Japanese_economic_miracle"
     },
     {
-      "title": "The British Empire at Its Peak",
-      "category": "History",
-      "description": "At its largest, Britain controlled 25% of Earth's land. Explore how this empire formed, ruled, and eventually collapsed.",
-      "url": "https://en.wikipedia.org/wiki/British_Empire"
-    },
-    {
-      "title": "The Partition of India",
-      "category": "History",
-      "description": "In 1947, British India split into two nations — India and Pakistan. One of the largest mass migrations in human history followed.",
-      "url": "https://en.wikipedia.org/wiki/Partition_of_India"
-    },
-    {
-      "title": "The Marshall Plan",
-      "category": "History",
-      "description": "After WWII, the US sent billions to rebuild Europe. But there was a strategic reason too — learn how it shaped the modern world.",
-      "url": "https://en.wikipedia.org/wiki/Marshall_Plan"
+      "title": "How Money Was Invented",
+      "category": "Economics",
+      "description": "Humans traded before currency existed. From barter to coins to paper money to digital — the evolution of how we exchange value.",
+      "url": "https://en.wikipedia.org/wiki/History_of_money"
     },
     {
       "title": "Mongolia — The World's Least Dense Country",
@@ -127,6 +211,18 @@
       "url": "https://en.wikipedia.org/wiki/Government_Pension_Fund_of_Norway"
     },
     {
+      "title": "New Zealand — First Country to Give Women the Vote",
+      "category": "Countries",
+      "description": "In 1893, New Zealand became the first self-governing country where women could vote. A small nation with outsized global influence.",
+      "url": "https://en.wikipedia.org/wiki/New_Zealand"
+    },
+    {
+      "title": "Antarctica — A Continent Governed by No Country",
+      "category": "Countries",
+      "description": "70 countries have signed a treaty making Antarctica a scientific reserve. No military, no mining, no ownership. How does this work?",
+      "url": "https://en.wikipedia.org/wiki/Antarctic_Treaty_System"
+    },
+    {
       "title": "The Amazon Rainforest",
       "category": "Science & Nature",
       "description": "Home to 10% of all species on Earth, producing 20% of the world's oxygen. Discover why this ecosystem is called 'the lungs of the Earth'.",
@@ -163,40 +259,52 @@
       "url": "https://en.wikipedia.org/wiki/Vaccine"
     },
     {
-      "title": "The Ocean's Depths — The Mariana Trench",
+      "title": "The Human Brain",
       "category": "Science & Nature",
-      "description": "Deeper than Mount Everest is tall, the Mariana Trench is Earth's deepest point. Strange creatures live there in total darkness.",
-      "url": "https://en.wikipedia.org/wiki/Mariana_Trench"
+      "description": "86 billion neurons, 100 trillion connections. The most complex object in the known universe — and it fits in your skull.",
+      "url": "https://en.wikipedia.org/wiki/Human_brain"
     },
     {
-      "title": "Why the Sky Is Blue",
+      "title": "Climate Change — The Science",
       "category": "Science & Nature",
-      "description": "It's not water vapor or reflection. Light scatters differently through the atmosphere. A simple physics lesson with a beautiful answer.",
-      "url": "https://en.wikipedia.org/wiki/Rayleigh_scattering"
+      "description": "Why CO2 traps heat, how fast temperatures are rising, what feedback loops are, and what the models predict for 2100.",
+      "url": "https://en.wikipedia.org/wiki/Climate_change"
     },
     {
-      "title": "Universal Basic Income",
-      "category": "Society",
-      "description": "What if every citizen received a regular cash payment, no conditions? Countries are experimenting with it. Here are the results.",
-      "url": "https://en.wikipedia.org/wiki/Universal_basic_income"
+      "title": "The Theory of Evolution",
+      "category": "Science & Nature",
+      "description": "How life on Earth diversified over billions of years through natural selection. Darwin's idea that changed everything we know about biology.",
+      "url": "https://en.wikipedia.org/wiki/Evolution"
     },
     {
-      "title": "The Caste System in India",
-      "category": "Society",
-      "description": "A social hierarchy thousands of years old that still affects millions today. Understanding its history, legal status, and cultural impact.",
-      "url": "https://en.wikipedia.org/wiki/Caste_system_in_India"
+      "title": "The Gut Microbiome",
+      "category": "Science & Nature",
+      "description": "Your gut contains 38 trillion bacteria. They affect your mood, immunity, and even your decisions. Meet your inner ecosystem.",
+      "url": "https://en.wikipedia.org/wiki/Gut_microbiota"
+    },
+    {
+      "title": "What Is Quantum Mechanics?",
+      "category": "Science & Nature",
+      "description": "At the smallest scales, particles are in multiple states at once until observed. The theory that powers lasers, MRI machines, and computers.",
+      "url": "https://en.wikipedia.org/wiki/Quantum_mechanics"
+    },
+    {
+      "title": "How Viruses Work",
+      "category": "Science & Nature",
+      "description": "Not quite alive, not quite dead. Viruses hijack your cells to replicate. How they spread, mutate, and why some become pandemics.",
+      "url": "https://en.wikipedia.org/wiki/Virus"
+    },
+    {
+      "title": "The History of the Internet",
+      "category": "Technology",
+      "description": "From a 1969 US military network to something 5 billion people use daily. The fascinating story of how the web was born.",
+      "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"
     },
     {
       "title": "How the Internet Actually Works",
       "category": "Technology",
       "description": "What really happens when you type a URL? From DNS servers to fiber optic cables under the ocean — the internet is physical.",
       "url": "https://en.wikipedia.org/wiki/Internet"
-    },
-    {
-      "title": "The History of the Printing Press",
-      "category": "Technology",
-      "description": "Gutenberg's press changed everything. It made books affordable, spread literacy, and directly led to the Reformation and Scientific Revolution.",
-      "url": "https://en.wikipedia.org/wiki/Printing_press"
     },
     {
       "title": "What Is Artificial Intelligence?",
@@ -209,6 +317,102 @@
       "category": "Technology",
       "description": "Splitting atoms releases enormous energy. Nuclear plants produce clean power but leave radioactive waste for thousands of years. Worth it?",
       "url": "https://en.wikipedia.org/wiki/Nuclear_power"
+    },
+    {
+      "title": "How Computers Work",
+      "category": "Technology",
+      "description": "From transistors to binary code to operating systems — how does typing a key ultimately make something appear on your screen?",
+      "url": "https://en.wikipedia.org/wiki/Computer"
+    },
+    {
+      "title": "The History of Cryptocurrency",
+      "category": "Technology",
+      "description": "Bitcoin was created in 2009 by an anonymous person. How does blockchain work, and what's the argument for decentralized money?",
+      "url": "https://en.wikipedia.org/wiki/Cryptocurrency"
+    },
+    {
+      "title": "How Large Language Models Work",
+      "category": "AI",
+      "description": "ChatGPT, Gemini, Claude — how do they actually generate text? A clear explanation of transformers, tokens, and what 'training' really means.",
+      "url": "https://en.wikipedia.org/wiki/Large_language_model"
+    },
+    {
+      "title": "The Ethics of Artificial Intelligence",
+      "category": "AI",
+      "description": "Bias in algorithms, autonomous weapons, surveillance, and deepfakes. The moral questions that AI is forcing humanity to answer — fast.",
+      "url": "https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence"
+    },
+    {
+      "title": "AI and the Future of Work",
+      "category": "AI",
+      "description": "Which jobs will AI replace, which will it augment, and which will it create? What economists and researchers actually predict.",
+      "url": "https://en.wikipedia.org/wiki/Technological_unemployment"
+    },
+    {
+      "title": "Machine Learning — How Machines Learn",
+      "category": "AI",
+      "description": "Supervised, unsupervised, reinforcement learning. How AI systems improve through data rather than being explicitly programmed.",
+      "url": "https://en.wikipedia.org/wiki/Machine_learning"
+    },
+    {
+      "title": "Generative AI — Images, Music, and Video",
+      "category": "AI",
+      "description": "AI is now creating art, music, and videos indistinguishable from human work. How it works, who owns it, and what it means for creative industries.",
+      "url": "https://en.wikipedia.org/wiki/Generative_artificial_intelligence"
+    },
+    {
+      "title": "The AI Safety Problem",
+      "category": "AI",
+      "description": "Could AI become uncontrollable? Researchers debate alignment, superintelligence, and existential risk. Is this science fiction or a real concern?",
+      "url": "https://en.wikipedia.org/wiki/AI_safety"
+    },
+    {
+      "title": "Self-Driving Cars — Where Are We Now?",
+      "category": "AI",
+      "description": "Promises, crashes, and regulatory battles. The state of autonomous vehicles in 2024 — technically possible but socially complicated.",
+      "url": "https://en.wikipedia.org/wiki/Self-driving_car"
+    },
+    {
+      "title": "Quantum Computing Explained",
+      "category": "Advanced Technology",
+      "description": "Quantum computers use qubits instead of bits. They could break modern encryption or simulate molecules for drug discovery. What's the reality?",
+      "url": "https://en.wikipedia.org/wiki/Quantum_computing"
+    },
+    {
+      "title": "How Satellites Work",
+      "category": "Advanced Technology",
+      "description": "From low Earth orbit to geostationary — satellites run GPS, weather forecasting, internet, and spy networks. How are they built and launched?",
+      "url": "https://en.wikipedia.org/wiki/Satellite"
+    },
+    {
+      "title": "Gene Therapy — Rewriting Human Biology",
+      "category": "Advanced Technology",
+      "description": "Scientists are correcting genetic mutations to cure diseases once thought untreatable. How it works and the ethical boundaries being tested.",
+      "url": "https://en.wikipedia.org/wiki/Gene_therapy"
+    },
+    {
+      "title": "The Metaverse — What Is It Really?",
+      "category": "Advanced Technology",
+      "description": "Beyond the hype — what AR, VR, and immersive computing might actually become. Where the technology stands and what obstacles remain.",
+      "url": "https://en.wikipedia.org/wiki/Metaverse"
+    },
+    {
+      "title": "Renewable Energy — Solar, Wind, and Batteries",
+      "category": "Advanced Technology",
+      "description": "How solar panels and wind turbines work, why battery storage is the missing piece, and the race to decarbonize the global energy grid.",
+      "url": "https://en.wikipedia.org/wiki/Renewable_energy"
+    },
+    {
+      "title": "Space Exploration in the 21st Century",
+      "category": "Advanced Technology",
+      "description": "SpaceX, NASA's Artemis, and India's ISRO — a new era of space travel is underway. Mars missions, commercial rockets, and what comes next.",
+      "url": "https://en.wikipedia.org/wiki/Space_exploration"
+    },
+    {
+      "title": "Cybersecurity — Protecting the Digital World",
+      "category": "Advanced Technology",
+      "description": "Ransomware, state-sponsored hacking, and zero-day exploits. How cyberattacks work, who is behind them, and how the world defends itself.",
+      "url": "https://en.wikipedia.org/wiki/Computer_security"
     },
     {
       "title": "The Panama Canal",
@@ -229,22 +433,22 @@
       "url": "https://en.wikipedia.org/wiki/Global_Positioning_System"
     },
     {
-      "title": "The Human Brain",
-      "category": "Science & Nature",
-      "description": "86 billion neurons, 100 trillion connections. The most complex object in the known universe — and it fits in your skull.",
-      "url": "https://en.wikipedia.org/wiki/Human_brain"
+      "title": "How Airplanes Fly",
+      "category": "Engineering",
+      "description": "It's not just about lift. Learn the aerodynamics of flight — how wings, engines, and the laws of physics keep 500 tons airborne.",
+      "url": "https://en.wikipedia.org/wiki/Aerodynamics"
     },
     {
-      "title": "The Story of Writing",
-      "category": "History",
-      "description": "Writing was invented independently several times. From Sumerian cuneiform to alphabets — how humans learned to record thought.",
-      "url": "https://en.wikipedia.org/wiki/History_of_writing"
+      "title": "Universal Basic Income",
+      "category": "Society",
+      "description": "What if every citizen received a regular cash payment, no conditions? Countries are experimenting with it. Here are the results.",
+      "url": "https://en.wikipedia.org/wiki/Universal_basic_income"
     },
     {
-      "title": "What Is Democracy?",
-      "category": "Politics",
-      "description": "Ancient Athens invented it, Rome modified it, and modern nations have 100 different versions. What does democracy really mean?",
-      "url": "https://en.wikipedia.org/wiki/Democracy"
+      "title": "The Caste System in India",
+      "category": "Society",
+      "description": "A social hierarchy thousands of years old that still affects millions today. Understanding its history, legal status, and cultural impact.",
+      "url": "https://en.wikipedia.org/wiki/Caste_system_in_India"
     },
     {
       "title": "The Global Water Crisis",
@@ -253,286 +457,10 @@
       "url": "https://en.wikipedia.org/wiki/Water_scarcity"
     },
     {
-      "title": "The Space Race",
-      "category": "History",
-      "description": "Two superpowers competed to conquer space. Sputnik, Gagarin, Apollo 11 — these milestones changed technology and human ambition forever.",
-      "url": "https://en.wikipedia.org/wiki/Space_Race"
-    },
-    {
-      "title": "How Money Was Invented",
-      "category": "Economics",
-      "description": "Humans traded before currency existed. From barter to coins to paper money to digital — the evolution of how we exchange value.",
-      "url": "https://en.wikipedia.org/wiki/History_of_money"
-    },
-    {
-      "title": "The Philosophy of Stoicism",
-      "category": "Philosophy",
-      "description": "Focus only on what you can control. Used by Roman emperors and modern executives alike. Ancient wisdom for modern life.",
-      "url": "https://en.wikipedia.org/wiki/Stoicism"
-    },
-    {
-      "title": "The United Nations — How It Works",
-      "category": "Politics",
-      "description": "Founded after WWII to prevent another global war, the UN has 193 member states. But can it actually enforce anything?",
-      "url": "https://en.wikipedia.org/wiki/United_Nations"
-    },
-    {
-      "title": "Climate Change — The Science",
-      "category": "Science & Nature",
-      "description": "Why CO2 traps heat, how fast temperatures are rising, what feedback loops are, and what the models predict for 2100.",
-      "url": "https://en.wikipedia.org/wiki/Climate_change"
-    },
-    {
-      "title": "The Renaissance",
-      "category": "History",
-      "description": "A rebirth of art, science, and thinking in Europe after the Middle Ages. Da Vinci, Michelangelo, and Copernicus all lived in this era.",
-      "url": "https://en.wikipedia.org/wiki/Renaissance"
-    },
-    {
-      "title": "What Is a Constitution?",
-      "category": "Politics",
-      "description": "A country's highest law. Some are long (India: 145,000 words), some short (USA: 7,591 words). What makes a good constitution?",
-      "url": "https://en.wikipedia.org/wiki/Constitution"
-    },
-    {
-      "title": "The Columbian Exchange",
-      "category": "History",
-      "description": "When Columbus reached America, two worlds of plants, animals, and diseases collided. Potatoes, tomatoes, and smallpox changed everything.",
-      "url": "https://en.wikipedia.org/wiki/Columbian_exchange"
-    },
-    {
-      "title": "How Airplanes Fly",
-      "category": "Engineering",
-      "description": "It's not just about lift. Learn the aerodynamics of flight — how wings, engines, and the laws of physics keep 500 tons airborne.",
-      "url": "https://en.wikipedia.org/wiki/Aerodynamics"
-    },
-    {
-      "title": "The Philosophy of Existentialism",
-      "category": "Philosophy",
-      "description": "Life has no inherent meaning — you create your own. Sartre, Camus, and Kierkegaard asked: what does it mean to exist?",
-      "url": "https://en.wikipedia.org/wiki/Existentialism"
-    },
-    {
-      "title": "How the Stock Market Works",
-      "category": "Economics",
-      "description": "Companies sell pieces of themselves to raise money. Investors bet on their future. Learn what moves prices and why markets crash.",
-      "url": "https://en.wikipedia.org/wiki/Stock_market"
-    },
-    {
-      "title": "The History of Antibiotics",
-      "category": "Science & Nature",
-      "description": "Fleming's accidental discovery of penicillin in 1928 saved hundreds of millions of lives. Now bacteria are fighting back.",
-      "url": "https://en.wikipedia.org/wiki/Antibiotic"
-    },
-    {
-      "title": "The Rwandan Genocide",
-      "category": "History",
-      "description": "In 100 days in 1994, 800,000 people were killed. Understanding how propaganda and colonial history turned neighbors against each other.",
-      "url": "https://en.wikipedia.org/wiki/Rwandan_genocide"
-    },
-    {
-      "title": "What Is Nuclear Deterrence?",
-      "category": "Politics",
-      "description": "If both sides have nukes, neither will use them — or so the theory goes. How MAD (Mutually Assured Destruction) shapes world peace.",
-      "url": "https://en.wikipedia.org/wiki/Nuclear_deterrence"
-    },
-    {
-      "title": "New Zealand — First Country to Give Women the Vote",
-      "category": "Countries",
-      "description": "In 1893, New Zealand became the first self-governing country where women could vote. A small nation with outsized global influence.",
-      "url": "https://en.wikipedia.org/wiki/New_Zealand"
-    },
-    {
-      "title": "The Gut Microbiome",
-      "category": "Science & Nature",
-      "description": "Your gut contains 38 trillion bacteria. They affect your mood, immunity, and even your decisions. Meet your inner ecosystem.",
-      "url": "https://en.wikipedia.org/wiki/Gut_microbiota"
-    },
-    {
-      "title": "Mahatma Gandhi and Civil Disobedience",
-      "category": "History",
-      "description": "How one man used nonviolence to defeat the British Empire. Gandhi's methods inspired Martin Luther King Jr. and movements worldwide.",
-      "url": "https://en.wikipedia.org/wiki/Mahatma_Gandhi"
-    },
-    {
-      "title": "The Theory of Evolution",
-      "category": "Science & Nature",
-      "description": "How life on Earth diversified over billions of years through natural selection. Darwin's idea that changed everything we know about biology.",
-      "url": "https://en.wikipedia.org/wiki/Evolution"
-    },
-    {
-      "title": "What Is a Central Bank?",
-      "category": "Economics",
-      "description": "The Reserve Bank of India, the US Federal Reserve — these institutions control money supply and interest rates for entire economies.",
-      "url": "https://en.wikipedia.org/wiki/Central_bank"
-    },
-    {
-      "title": "How Computers Work",
-      "category": "Technology",
-      "description": "From transistors to binary code to operating systems — how does typing a key ultimately make something appear on your screen?",
-      "url": "https://en.wikipedia.org/wiki/Computer"
-    },
-    {
-      "title": "Bhagavad Gita — Philosophy of Action",
-      "category": "Philosophy",
-      "description": "One of humanity's greatest philosophical texts. On the battlefield, Krishna explains duty, action without attachment, and the eternal self.",
-      "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita"
-    },
-    {
-      "title": "The History of India's Independence",
-      "category": "History",
-      "description": "A 90-year struggle against British rule, involving millions of people, two world wars, and a midnight moment that changed the world.",
-      "url": "https://en.wikipedia.org/wiki/Indian_independence_movement"
-    },
-    {
-      "title": "Caste and the Indian Constitution",
-      "category": "Society",
-      "description": "Dr. B.R. Ambedkar designed India's constitution to dismantle caste discrimination. How well has it worked 75 years later?",
-      "url": "https://en.wikipedia.org/wiki/B._R._Ambedkar"
-    },
-    {
-      "title": "The Green Revolution",
-      "category": "Science & Nature",
-      "description": "In the 1960s, new wheat and rice varieties saved over a billion people from starvation. Norman Borlaug — the man who fed the world.",
-      "url": "https://en.wikipedia.org/wiki/Green_Revolution"
-    },
-    {
-      "title": "How Photosynthesis Works",
-      "category": "Science & Nature",
-      "description": "Plants turn sunlight, water, and CO2 into sugar and oxygen. This one chemical reaction is the foundation of almost all life on Earth.",
-      "url": "https://en.wikipedia.org/wiki/Photosynthesis"
-    },
-    {
-      "title": "The History of Cryptocurrency",
-      "category": "Technology",
-      "description": "Bitcoin was created in 2009 by an anonymous person. How does blockchain work, and what's the argument for decentralized money?",
-      "url": "https://en.wikipedia.org/wiki/Cryptocurrency"
-    },
-    {
-      "title": "The Roman Empire's Fall",
-      "category": "History",
-      "description": "The greatest empire in history collapsed over centuries. Was it barbarians, economic collapse, or something else? Historians still debate.",
-      "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
-    },
-    {
-      "title": "What Is Quantum Mechanics?",
-      "category": "Science & Nature",
-      "description": "At the smallest scales, particles are in multiple states at once until observed. The theory that powers lasers, MRI machines, and computers.",
-      "url": "https://en.wikipedia.org/wiki/Quantum_mechanics"
-    },
-    {
-      "title": "The United States Electoral College",
-      "category": "Politics",
-      "description": "Americans don't directly elect their president. Learn how the Electoral College works, why it was created, and why it's controversial.",
-      "url": "https://en.wikipedia.org/wiki/United_States_Electoral_College"
-    },
-    {
-      "title": "What Is Federalism?",
-      "category": "Politics",
-      "description": "Power shared between a central government and states. India, USA, Germany all use it differently. Why it works — and when it fails.",
-      "url": "https://en.wikipedia.org/wiki/Federalism"
-    },
-    {
-      "title": "The History of the Internet",
-      "category": "Technology",
-      "description": "From a 1969 US military network to something 5 billion people use daily. The fascinating story of how the web was born.",
-      "url": "https://en.wikipedia.org/wiki/History_of_the_Internet"
-    },
-    {
-      "title": "Meditation and the Science Behind It",
-      "category": "Science & Nature",
-      "description": "Neuroscience shows meditation physically changes the brain. What happens during meditation and what benefits does research actually confirm?",
-      "url": "https://en.wikipedia.org/wiki/Meditation"
-    },
-    {
-      "title": "The Story of Coffee",
-      "category": "History",
-      "description": "Discovered by Ethiopian goats, popularized by Arabian traders, spread by European colonists. How coffee conquered the world.",
-      "url": "https://en.wikipedia.org/wiki/History_of_coffee"
-    },
-    {
-      "title": "Antarctica — A Continent Governed by No Country",
-      "category": "Countries",
-      "description": "70 countries have signed a treaty making Antarctica a scientific reserve. No military, no mining, no ownership. How does this work?",
-      "url": "https://en.wikipedia.org/wiki/Antarctic_Treaty_System"
-    },
-    {
-      "title": "The Industrial Revolution",
-      "category": "History",
-      "description": "Steam, steel, and factories transformed human life in just 100 years. It created wealth — and misery — on an unprecedented scale.",
-      "url": "https://en.wikipedia.org/wiki/Industrial_Revolution"
-    },
-    {
-      "title": "Philosophy of Utilitarianism",
-      "category": "Philosophy",
-      "description": "The right action is whatever creates the most happiness for the most people. Simple? Bentham and Mill explore the complications.",
-      "url": "https://en.wikipedia.org/wiki/Utilitarianism"
-    },
-    {
-      "title": "How Language Shapes Thought",
-      "category": "Society",
-      "description": "Does the language you speak affect how you think? Some languages have no word for 'left' or 'right' — and speakers navigate differently.",
-      "url": "https://en.wikipedia.org/wiki/Linguistic_relativity"
-    },
-    {
-      "title": "The Role of the Supreme Court",
-      "category": "Politics",
-      "description": "Why do unelected judges have so much power? How constitutional courts balance democracy with protection of individual rights.",
-      "url": "https://en.wikipedia.org/wiki/Supreme_Court_of_India"
-    },
-    {
-      "title": "The Story of Salt",
-      "category": "History",
-      "description": "Salt was once so valuable it was used as currency. Wars were fought over it. Gandhi's Salt March brought down an empire.",
-      "url": "https://en.wikipedia.org/wiki/History_of_salt"
-    },
-    {
-      "title": "How Trade Routes Shaped Civilizations",
-      "category": "Economics",
-      "description": "Whoever controlled trade routes controlled the world. How the spice trade funded Columbus and built the modern global economy.",
-      "url": "https://en.wikipedia.org/wiki/Trade_route"
-    },
-    {
       "title": "Human Rights — The Universal Declaration",
       "category": "Society",
       "description": "In 1948, after the Holocaust, the world agreed on 30 basic human rights. Who wrote them, what they say, and are they working?",
       "url": "https://en.wikipedia.org/wiki/Universal_Declaration_of_Human_Rights"
-    },
-    {
-      "title": "The Story of Paper",
-      "category": "History",
-      "description": "Paper was invented in China in 105 AD and took 1,000 years to reach Europe. This single material enabled bureaucracy, science, and literature.",
-      "url": "https://en.wikipedia.org/wiki/History_of_paper"
-    },
-    {
-      "title": "How Electricity Works",
-      "category": "Science & Nature",
-      "description": "Electrons moving through conductors power your entire life. From Franklin's kite to Edison vs Tesla — the electrifying history of electricity.",
-      "url": "https://en.wikipedia.org/wiki/Electricity"
-    },
-    {
-      "title": "The Philosophy of Ethics",
-      "category": "Philosophy",
-      "description": "Is morality absolute or relative? What makes an action right or wrong? Three major ethical frameworks that help us decide.",
-      "url": "https://en.wikipedia.org/wiki/Ethics"
-    },
-    {
-      "title": "The Mystery of Sleep",
-      "category": "Science & Nature",
-      "description": "We spend 1/3 of our lives asleep, yet science still doesn't fully know why. What happens in your brain during sleep?",
-      "url": "https://en.wikipedia.org/wiki/Sleep"
-    },
-    {
-      "title": "Nuclear Weapons — History and Impact",
-      "category": "History",
-      "description": "From the Manhattan Project to Hiroshima to today's 12,000 warheads. How these weapons reshaped every geopolitical calculation.",
-      "url": "https://en.wikipedia.org/wiki/Nuclear_weapon"
-    },
-    {
-      "title": "The History of Chess",
-      "category": "History",
-      "description": "Invented in India 1,500 years ago, chess spread to Persia, Arabia, and Europe — each culture changing the game's meaning and rules.",
-      "url": "https://en.wikipedia.org/wiki/History_of_chess"
     },
     {
       "title": "What Is a Refugee?",
@@ -541,16 +469,196 @@
       "url": "https://en.wikipedia.org/wiki/Refugee"
     },
     {
-      "title": "Japan's Economic Miracle",
-      "category": "Economics",
-      "description": "Devastated in 1945, Japan became the world's second-largest economy by 1968. How did they do it — and why did it eventually stall?",
-      "url": "https://en.wikipedia.org/wiki/Japanese_economic_miracle"
+      "title": "Caste and the Indian Constitution",
+      "category": "Society",
+      "description": "Dr. B.R. Ambedkar designed India's constitution to dismantle caste discrimination. How well has it worked 75 years later?",
+      "url": "https://en.wikipedia.org/wiki/B._R._Ambedkar"
     },
     {
-      "title": "The History of Medicine",
-      "category": "History",
-      "description": "From bloodletting to surgery with anesthesia. How humans went from superstition to evidence-based medicine over 5,000 years.",
-      "url": "https://en.wikipedia.org/wiki/History_of_medicine"
+      "title": "How Language Shapes Thought",
+      "category": "Society",
+      "description": "Does the language you speak affect how you think? Some languages have no word for 'left' or 'right' — and speakers navigate differently.",
+      "url": "https://en.wikipedia.org/wiki/Linguistic_relativity"
+    },
+    {
+      "title": "Cognitive Biases — How Your Brain Tricks You",
+      "category": "Psychology",
+      "description": "Confirmation bias, the Dunning-Kruger effect, availability heuristic. Over 180 known biases shape every decision you make without realizing.",
+      "url": "https://en.wikipedia.org/wiki/Cognitive_bias"
+    },
+    {
+      "title": "The Psychology of Motivation",
+      "category": "Psychology",
+      "description": "Intrinsic vs extrinsic motivation, Maslow's hierarchy, and self-determination theory. What actually drives humans to act — and what kills drive.",
+      "url": "https://en.wikipedia.org/wiki/Motivation"
+    },
+    {
+      "title": "What Is Anxiety — And How Does It Work?",
+      "category": "Psychology",
+      "description": "The brain's threat detection system running too hot. How anxiety forms in the amygdala, why it spirals, and evidence-based ways to manage it.",
+      "url": "https://en.wikipedia.org/wiki/Anxiety"
+    },
+    {
+      "title": "The Science of Habits",
+      "category": "Psychology",
+      "description": "Habit loops, cue-routine-reward cycles, and neuroplasticity. Why habits are so hard to break — and what science says about forming better ones.",
+      "url": "https://en.wikipedia.org/wiki/Habit"
+    },
+    {
+      "title": "Emotional Intelligence — What It Is and Why It Matters",
+      "category": "Psychology",
+      "description": "The ability to recognize, understand, and manage emotions in yourself and others. How EQ predicts success better than IQ in many areas of life.",
+      "url": "https://en.wikipedia.org/wiki/Emotional_intelligence"
+    },
+    {
+      "title": "Social Psychology — How Others Change Us",
+      "category": "Psychology",
+      "description": "Conformity, obedience, groupthink, and bystander effect. Classic experiments by Milgram and Zimbardo reveal how much context shapes behavior.",
+      "url": "https://en.wikipedia.org/wiki/Social_psychology"
+    },
+    {
+      "title": "The Psychology of Trauma",
+      "category": "Psychology",
+      "description": "How traumatic events reshape the brain and nervous system. What PTSD actually is, why trauma responses are survival mechanisms, and paths to healing.",
+      "url": "https://en.wikipedia.org/wiki/Psychological_trauma"
+    },
+    {
+      "title": "Attachment Theory — How Childhood Shapes Relationships",
+      "category": "Psychology",
+      "description": "Secure, anxious, avoidant, disorganized. Your early bonds with caregivers shape how you relate to people for the rest of your life.",
+      "url": "https://en.wikipedia.org/wiki/Attachment_theory"
+    },
+    {
+      "title": "The Psychology of Persuasion",
+      "category": "Psychology",
+      "description": "Reciprocity, scarcity, authority, social proof. Cialdini's principles explain why you buy things you didn't plan to — and how to resist manipulation.",
+      "url": "https://en.wikipedia.org/wiki/Persuasion"
+    },
+    {
+      "title": "Meditation and the Science Behind It",
+      "category": "Psychology",
+      "description": "Neuroscience shows meditation physically changes the brain. What happens during meditation and what benefits does research actually confirm?",
+      "url": "https://en.wikipedia.org/wiki/Meditation"
+    },
+    {
+      "title": "The Mystery of Sleep",
+      "category": "Psychology",
+      "description": "We spend 1/3 of our lives asleep, yet science still doesn't fully know why. What happens in your brain during sleep — and what happens when you don't get enough.",
+      "url": "https://en.wikipedia.org/wiki/Sleep"
+    },
+    {
+      "title": "How to Read a Job Posting — What They're Really Looking For",
+      "category": "Job Opportunities",
+      "description": "Job descriptions are wish lists, not checklists. Learn to decode what employers actually want, which requirements to ignore, and how to position your experience.",
+      "url": "https://en.wikipedia.org/wiki/Job_description"
+    },
+    {
+      "title": "The Gig Economy — Opportunities and Risks",
+      "category": "Job Opportunities",
+      "description": "Freelancing, Upwork, delivery apps, remote contracts. The gig economy offers flexibility but strips away benefits. Is it freedom or exploitation?",
+      "url": "https://en.wikipedia.org/wiki/Gig_economy"
+    },
+    {
+      "title": "Remote Work — How the World Changed After COVID",
+      "category": "Job Opportunities",
+      "description": "Millions of jobs went remote in 2020 and never came back. What industries hire remotely, how to find remote roles, and what employers expect.",
+      "url": "https://en.wikipedia.org/wiki/Remote_work"
+    },
+    {
+      "title": "High-Demand Skills for the Next Decade",
+      "category": "Job Opportunities",
+      "description": "Data analysis, AI literacy, cybersecurity, communication, and critical thinking. The skills that automation can't replace — and how to build them.",
+      "url": "https://en.wikipedia.org/wiki/Skill"
+    },
+    {
+      "title": "How Salaries Are Determined",
+      "category": "Job Opportunities",
+      "description": "Why two people in the same role earn differently. Market rates, negotiation power, geography, and the gender pay gap — how pay really works.",
+      "url": "https://en.wikipedia.org/wiki/Salary"
+    },
+    {
+      "title": "Entrepreneurship — Starting a Business from Scratch",
+      "category": "Job Opportunities",
+      "description": "The realities behind startup culture. What it takes to build something from nothing — funding, failure rates, and what distinguishes survivors.",
+      "url": "https://en.wikipedia.org/wiki/Entrepreneurship"
+    },
+    {
+      "title": "Careers in Technology — What Engineers Actually Do",
+      "category": "Job Opportunities",
+      "description": "Software engineering, data science, product management, UX. The different roles inside tech companies — and which ones are growing fastest.",
+      "url": "https://en.wikipedia.org/wiki/Software_engineering"
+    },
+    {
+      "title": "Moving Out — The Real Cost of Living Alone",
+      "category": "Adulthood",
+      "description": "Rent, utilities, groceries, insurance — the full picture of what living independently actually costs and how to budget for it realistically.",
+      "url": "https://en.wikipedia.org/wiki/Cost_of_living"
+    },
+    {
+      "title": "How Taxes Work — A Beginner's Guide",
+      "category": "Adulthood",
+      "description": "Income tax slabs, deductions, TDS, and filing returns. What every working adult needs to understand about the tax system — without the jargon.",
+      "url": "https://en.wikipedia.org/wiki/Tax"
+    },
+    {
+      "title": "Personal Finance Basics — Budgeting and Saving",
+      "category": "Adulthood",
+      "description": "The 50/30/20 rule, emergency funds, and compound interest. The financial habits that separate people who get ahead from those who stay stuck.",
+      "url": "https://en.wikipedia.org/wiki/Personal_finance"
+    },
+    {
+      "title": "How Credit Scores Work",
+      "category": "Adulthood",
+      "description": "Why a three-digit number affects your ability to rent, borrow, and sometimes get hired. How credit is calculated and how to build it from zero.",
+      "url": "https://en.wikipedia.org/wiki/Credit_score"
+    },
+    {
+      "title": "The Psychology of Adulthood — Quarter-Life Crisis",
+      "category": "Adulthood",
+      "description": "Feeling lost in your 20s is more common than you think. The psychological challenges of early adulthood — identity, relationships, and direction.",
+      "url": "https://en.wikipedia.org/wiki/Quarter-life_crisis"
+    },
+    {
+      "title": "Health Insurance — How It Works and Why It Matters",
+      "category": "Adulthood",
+      "description": "Premiums, deductibles, copays, and networks. The basics of health insurance that every adult needs to understand before they need it.",
+      "url": "https://en.wikipedia.org/wiki/Health_insurance"
+    },
+    {
+      "title": "Building and Maintaining Healthy Relationships",
+      "category": "Adulthood",
+      "description": "Communication, boundaries, conflict resolution, and what research says about what makes relationships last — romantic, professional, and friendships.",
+      "url": "https://en.wikipedia.org/wiki/Interpersonal_relationship"
+    },
+    {
+      "title": "Investing for Beginners — Stocks, Mutual Funds, and SIPs",
+      "category": "Adulthood",
+      "description": "Why keeping money in a savings account loses value over time. How to start investing with small amounts and let compounding work for you.",
+      "url": "https://en.wikipedia.org/wiki/Investment"
+    },
+    {
+      "title": "Philosophy of Utilitarianism",
+      "category": "Philosophy",
+      "description": "The right action is whatever creates the most happiness for the most people. Simple? Bentham and Mill explore the complications.",
+      "url": "https://en.wikipedia.org/wiki/Utilitarianism"
+    },
+    {
+      "title": "The Philosophy of Stoicism",
+      "category": "Philosophy",
+      "description": "Focus only on what you can control. Used by Roman emperors and modern executives alike. Ancient wisdom for modern life.",
+      "url": "https://en.wikipedia.org/wiki/Stoicism"
+    },
+    {
+      "title": "The Philosophy of Existentialism",
+      "category": "Philosophy",
+      "description": "Life has no inherent meaning — you create your own. Sartre, Camus, and Kierkegaard asked: what does it mean to exist?",
+      "url": "https://en.wikipedia.org/wiki/Existentialism"
+    },
+    {
+      "title": "The Philosophy of Ethics",
+      "category": "Philosophy",
+      "description": "Is morality absolute or relative? What makes an action right or wrong? Three major ethical frameworks that help us decide.",
+      "url": "https://en.wikipedia.org/wiki/Ethics"
     },
     {
       "title": "The Philosophy of Free Will",
@@ -559,16 +667,10 @@
       "url": "https://en.wikipedia.org/wiki/Free_will"
     },
     {
-      "title": "How Viruses Work",
-      "category": "Science & Nature",
-      "description": "Not quite alive, not quite dead. Viruses hijack your cells to replicate. How they spread, mutate, and why some become pandemics.",
-      "url": "https://en.wikipedia.org/wiki/Virus"
-    },
-    {
-      "title": "The Mughal Empire",
-      "category": "History",
-      "description": "From Babur to Aurangzeb, the Mughals ruled most of South Asia for 300 years. Their art, architecture, and governance shaped modern India.",
-      "url": "https://en.wikipedia.org/wiki/Mughal_Empire"
+      "title": "Bhagavad Gita — Philosophy of Action",
+      "category": "Philosophy",
+      "description": "One of humanity's greatest philosophical texts. On the battlefield, Krishna explains duty, action without attachment, and the eternal self.",
+      "url": "https://en.wikipedia.org/wiki/Bhagavad_Gita"
     }
   ]
 }
